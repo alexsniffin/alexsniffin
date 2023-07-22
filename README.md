@@ -16,4 +16,4 @@ Currently in my spare time, I'm exploring how to utilize LLM backends to build i
 
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexsniffin&hide_progress=true&theme=dracula "langs")
 
-![Stats](https://github-readme-stats.vercel.app/api?username=alexsniffin&show_icons=true&theme=dracula "stats")
+![Stats](https://github-readme-stats.vercel.app/api?username=alexsniffin&show_icons=true&theme=dracula&hide_rank=true "stats")
